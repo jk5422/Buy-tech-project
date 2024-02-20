@@ -1,0 +1,1 @@
+{"token":{"name":"Laravel Password Grant Client","abilities":["*"],"expires_at":null,"tokenable_id":9,"tokenable_type":"App\\Models\\User","updated_at":"2023-05-12T13:02:21.000000Z","created_at":"2023-05-12T13:02:21.000000Z","id":5}}
